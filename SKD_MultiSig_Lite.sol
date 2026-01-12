@@ -5,3 +5,4 @@ contract SKDMultiSig {
     address[] public owners;
     constructor(address[] memory _owners) { owners = _owners; }
 }
+// Updated on Jan 12, 2026
