@@ -1,3 +1,5 @@
-# Smart-Contract-Library
-Personal library of smart contracts and decentralized experiments. Focused on Solidity development for Celo, Base, and other EVM-compatible networks. Includes ERC-20, ERC-721 implementations and custom business logic.
-Current status: 3 contracts uploaded.
+# 🛠️ Smart-Contract-Library
+
+A professional collection of secure, modular smart contracts for EVM ecosystems (Celo, Base, Ethereum). This repository serves as a personal laboratory for decentralized experiments and production-ready contract templates.
+
+---
