@@ -18,3 +18,9 @@ A professional collection of secure, modular smart contracts for EVM ecosystems 
 - **Language:** Solidity (^0.8.20)
 - **Networks:** Celo, Base, Ethereum Mainnet
 - **Tools:** Remix IDE, Hardhat, OpenZeppelin Standards
+
+## 🚀 Quick Start
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/Sukoed/Smart-Contract-Library.git](https://github.com/Sukoed/Smart-Contract-Library.git)
