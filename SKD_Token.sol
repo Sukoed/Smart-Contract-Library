@@ -11,3 +11,4 @@ contract SKDToken {
         balances[msg.sender] = totalSupply;
     }
 }
+// Version 1.1
