@@ -6,3 +6,4 @@ contract SKDBurner {
         // Tokens sent here are lost forever
     }
 }
+// Updated on Jan 12, 2026
