@@ -19,8 +19,8 @@ A professional collection of secure, modular smart contracts for EVM ecosystems 
 - **Networks:** Celo, Base, Ethereum Mainnet
 - **Tools:** Remix IDE, Hardhat, OpenZeppelin Standards
 
-## 🚀 Quick Start
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/Sukoed/Smart-Contract-Library.git](https://github.com/Sukoed/Smart-Contract-Library.git)
+## 🚀 How to use
+1. Copy the code of any contract from this repository.
+2. Open [Remix IDE](https://remix.ethereum.org).
+3. Create a new file and paste the code.
+4. Compile and deploy to Celo or Base network.
