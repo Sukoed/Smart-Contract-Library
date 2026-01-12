@@ -12,3 +12,9 @@ A professional collection of secure, modular smart contracts for EVM ecosystems 
 | `SKD_DAO_Governance` | Voting and proposal management | ✅ Modular |
 | `SKD_Token` | Standard ERC-20 implementation | ✅ Deployed |
 | `SKD_Vault` | Secure asset storage with lock time | ✅ Verified |
+
+## 🛠 Tech Stack & Tools
+
+- **Language:** Solidity (^0.8.20)
+- **Networks:** Celo, Base, Ethereum Mainnet
+- **Tools:** Remix IDE, Hardhat, OpenZeppelin Standards
